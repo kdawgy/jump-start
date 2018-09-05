@@ -18,12 +18,12 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 
 | What the command does | Mac shortcut |
 | :--- | :--- |
-| Copy | |
-| Paste | |
-| Cut | |
-| Save | |
-| Select | |
-| Undo | |
+| Copy | command + C|
+| Paste | command + v|
+| Cut | command + x|
+| Save | command + s|
+| Select | enter|
+| Undo | command + Z|
 | Redo | |
 | Find | |
 | Switch app | |
