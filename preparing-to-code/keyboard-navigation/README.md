@@ -39,7 +39,7 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 | Dock | The Dock is the strip of apps at the bottom of the screen. You can change its size and location by going to Preference > Dock. Spend some time determining the best size and location for you. You can add applications to your dock by dragging them onto it, and you can expose options for applications in your dock by right-clicking on them. |
 | Finder | Finder is an application that lets you visually navigate your files and folders. |
 | Menu bar | The Menu bar at the top of MacOSX is context sensitive, and will change based on the application you have in focus. |
-| Mission control | Allows you to see all your open apps at once, there are many ways to launch this application, search the internet for the one that works best for you. |
+| Mission control | Allows you to see all your open apps at once, there are many ways to launch this application, search the internet for the one that works best for you. (I LIKE CTRL-UP ARROW) |
 | Mouse & Trackpad | Spend some time in your system preferences customizing these to your work style. |
 
 ### Navigating Multiple Applications
