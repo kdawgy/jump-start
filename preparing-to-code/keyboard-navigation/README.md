@@ -72,6 +72,6 @@ I downloaded spectacle because it's free and I Like spectacles.
     1. Keeping the Ada browser tab open, open a new tab
     1. Navigate to google.com
     1. Navigate back to the Ada tab
-    1. Refresh the web page
+    1. Refresh the web page  (command + r )
     1. Quit out of the web browser (don't just close the tabs, close the whole application)
 1. Use Spotlight to open Finder, web browser, system preferences and then switch between all three applications
