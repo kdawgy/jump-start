@@ -43,7 +43,7 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 | Mouse & Trackpad | Spend some time in your system preferences customizing these to your work style. |
 
 ### Navigating Multiple Applications
-- multi-finger swipe
+- multi-finger swipe  
       - OPEN AND CLOSE NOTIFICATION CENTER - 2 FINGER SWIPE IN FROM RIGHT  
       - OPEN LAUNCHPAD- 3 FINGER AND THUMB PINCH  
       - SHOW DESKPTOP- 3 FINGER AND THUMB REVERSE PINCH  
