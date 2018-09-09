@@ -54,7 +54,7 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
       -  LOOK UP DEFINITION, PREVIEW LINK IN SAFARI, INVOKE QUICKLOOK -3 FINGER TAP 
       
 - multiple desktops  
-      - I REGRET OWNING A MAC THIS LONG AND NOT KNOWING HOW AWESOME THIS FEATURE IS. GAME-CHANGER  
+      - I REGRET OWNING A MAC THIS LONG AND NOT KNOWING HOW AWESOME THIS FEATURE IS. GAME-CHANGER. I ACTUALLY FEEL BETRAYED NOBODY EVER TOLD ME ABOUT THIS.   
 - hot corners  
       - [THERES A COOL ARTICLE RIGHT HERE ABOUT THEM](https://thesweetsetup.com/quick-tip-enable-hot-corners-os-x/) AND THEY SOUND USEFUL BUT I DIDNT SET THEM UP YET BECAUSE I DONT KNOW WHAT I WANT MY SHORTCUTS TO BE! 
 - Double clicking a menu bar will force the window to take up your entire screen size
@@ -69,9 +69,9 @@ I downloaded spectacle because it's free and I Like spectacles.
 1. Do the following commands using only the keyboard:
     1. Open your web browser
     1. Navigate to adadevelopersacademy.org
-    1. Keeping the Ada browser tab open, open a new tab
+    1. Keeping the Ada browser tab open, open a new tab (command + t)
     1. Navigate to google.com
-    1. Navigate back to the Ada tab
+    1. Navigate back to the Ada tab (control- tab or conrtrol-shift-tab )
     1. Refresh the web page  (command + r )
     1. Quit out of the web browser (don't just close the tabs, close the whole application)
 1. Use Spotlight to open Finder, web browser, system preferences and then switch between all three applications
