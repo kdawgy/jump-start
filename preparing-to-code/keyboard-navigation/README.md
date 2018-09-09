@@ -58,7 +58,9 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 - hot corners  
       - [THERES A COOL ARTICLE RIGHT HERE ABOUT THEM](https://thesweetsetup.com/quick-tip-enable-hot-corners-os-x/) AND THEY SOUND USEFUL BUT I DIDNT SET THEM UP YET BECAUSE I DONT KNOW WHAT I WANT MY SHORTCUTS TO BE! 
 - Double clicking a menu bar will force the window to take up your entire screen size
-- window snapping [Cinch](http://www.irradiatedsoftware.com/cinch/), [Divvy](http://mizage.com/divvy/), [Slate](https://github.com/mattr-/slate), [Spectacle](https://www.spectacleapp.com/)
+- window snapping [Cinch](http://www.irradiatedsoftware.com/cinch/), [Divvy](http://mizage.com/divvy/), [Slate](https://github.com/mattr-/slate), [Spectacle](https://www.spectacleapp.com/)  
+
+I downloaded spectacle because it's free and I Like spectacles. 
 
 ## Practice tasks
 1. Use Spotlight to open the finder
