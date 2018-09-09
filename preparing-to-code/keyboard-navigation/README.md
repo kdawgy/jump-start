@@ -53,8 +53,10 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
       -  GO BACK AND FORWARD IN BROWSER, CALENDAR, OR QUICKTIME - 2 FINGER SIDE SWIPE 
       -  LOOK UP DEFINITION, PREVIEW LINK IN SAFARI, INVOKE QUICKLOOK -3 FINGER TAP 
       
-- multiple desktops
-- hot corners
+- multiple desktops  
+      - I REGRET OWNING A MAC THIS LONG AND NOT KNOWING HOW AWESOME THIS FEATURE IS. GAME-CHANGER  
+- hot corners  
+      - [THERES A COOL ARTICLE RIGHT HERE ABOUT THEM](https://thesweetsetup.com/quick-tip-enable-hot-corners-os-x/) AND THEY SOUND USEFUL BUT I DIDNT SET THEM UP YET BECAUSE I DONT KNOW WHAT I WANT MY SHORTCUTS TO BE! 
 - Double clicking a menu bar will force the window to take up your entire screen size
 - window snapping [Cinch](http://www.irradiatedsoftware.com/cinch/), [Divvy](http://mizage.com/divvy/), [Slate](https://github.com/mattr-/slate), [Spectacle](https://www.spectacleapp.com/)
 
