@@ -15,6 +15,7 @@ Software developers do not have all of the answers, instead a good portion of th
 * Watch [How Search Works](https://www.youtube.com/watch?v=BNHR6IQJGZs)
 * Read [20 Tips to Google Search Efficiently](http://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html)
 * Try [AGoogleADay.com](http://www.agoogleaday.com/), a daily search challenge from Google
+        * This was exciting & kind of dificult!
 
 ## Techniques
 * Type using keywords instead of full sentences
