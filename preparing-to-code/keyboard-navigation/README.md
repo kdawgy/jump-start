@@ -44,6 +44,15 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 
 ### Navigating Multiple Applications
 - multi-finger swipe
+      - OPEN AND CLOSE NOTIFICATION CENTER - 2 FINGER SWIPE IN FROM RIGHT  
+      - OPEN LAUNCHPAD- 3 FINGER AND THUMB PINCH  
+      - SHOW DESKPTOP- 3 FINGER AND THUMB REVERSE PINCH  
+      - MISSION CONTROL  - 3 FINGER UPWARD SWIPE
+      - SHOW ALL OPEN APPLICATIONS- 3 FINGER DOWNWARD SWIPE
+      -  SWITCH DESKTOP WITH 3 FINGER SIDE SWIPE 
+      -  GO BACK AND FORWARD IN BROWSER, CALENDAR, OR QUICKTIME - 2 FINGER SIDE SWIPE 
+      -  LOOK UP DEFINITION, PREVIEW LINK IN SAFARI, INVOKE QUICKLOOK -3 FINGER TAP 
+      
 - multiple desktops
 - hot corners
 - Double clicking a menu bar will force the window to take up your entire screen size
