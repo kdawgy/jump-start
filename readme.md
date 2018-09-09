@@ -25,11 +25,11 @@ In these lessons you will learn how to navigate MaxOSX, learn about the language
 ## [Learning to Code](./learning-to-code)
 These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data
 
-| Order | Lesson |
-| :--- | :--- |
-| 08 | [Hello World](./learning-to-code/hello-world/) |
-| 09 | [Comments, Data types, Mathematical operators, Keyboard input, Strings](./learning-to-code/grammar/) |
-| 10 | [Relational operators, Logical operators, Conditionals](./learning-to-code/programming-expressions/) |
-| 11 | [Iterators](./learning-to-code/iterators/) |
-| 12 | [Arrays](./learning-to-code/arrays) |
-| 13 | [Hashes](./learning-to-code/hashes) |
+| Order | Lesson | Progress |
+| :--- | :--- | :--- |
+| 08 | [Hello World](./learning-to-code/hello-world/) |  |
+| 09 | [Comments, Data types, Mathematical operators, Keyboard input, Strings](./learning-to-code/grammar/) |  |
+| 10 | [Relational operators, Logical operators, Conditionals](./learning-to-code/programming-expressions/) |  |
+| 11 | [Iterators](./learning-to-code/iterators/) |  |
+| 12 | [Arrays](./learning-to-code/arrays) |  |
+| 13 | [Hashes](./learning-to-code/hashes) |  |
