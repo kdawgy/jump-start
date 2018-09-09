@@ -13,7 +13,7 @@ _Note: You can postpone this lesson until you have a Mac computer_
 ## Overview
 Most software developers rely heavily on their keyboards and less so on their pointing devices (e.g., mouse, trackpad). This lesson will help you get comfortable using your keyboard to navigate in MaxOSX.
 
-## Common MacOSX shortcuts
+## Common MacOSX shortcuts - DONE!!
 Fill in the table below with the matching MacOSX shortcuts, if you don't know them use an internet search to find them.
 
 | What the command does | Mac shortcut |
@@ -24,13 +24,13 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 | Save | command + s|
 | Select | enter|
 | Undo | command + Z|
-| Redo | |
-| Find | |
-| Switch app | |
-| Open spotlight search | |
-| Force quit | |
-| Full-screen screen shot | |
-| User-defined region screen shot | |
+| Redo |command-shift-z | 
+| Find | command+f |
+| Switch app | Command-Tab and Command-Shift-Tab |
+| Open spotlight search | command+space |
+| Force quit | option-command-escape |
+| Full-screen screen shot | command-shift-3 |
+| User-defined region screen shot | shift-command-4 |
 
 ## MaxOSX overview
 
