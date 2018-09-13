@@ -65,11 +65,11 @@ Try out these commands first, and record what happened.
 
 | Command | What happened? |
 | :--- | :--- |
-| `ls -a .` | | 
+| `ls -a .` | whatever this means .	.. | 
 | `man ls` | |
-| `q` | |
-| `pwd` | |
-| `cd ~` | |
+| `q` | helps me get out of the thing that i assume is a manual but i dont understand it yet |
+| `pwd` | shows the path for the folder im in right now . /Users/KDAWG |
+| `cd ~` | nothing that i can see happened? is it a trick? |
 | `cd .` | |
 | `cd ..` | |
 | `cd -` | |
