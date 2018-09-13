@@ -65,7 +65,7 @@ Try out these commands first, and record what happened.
 
 | Command | What happened? |
 | :--- | :--- |
-| `ls -a .` | whatever this means .	.. | 
+| `ls -a .` | whatever this means .	.. (okay, this happened because i was in a folder with no child folders at the time.)| 
 | `man ls` | I think this is supposed to be a manual but its a lot to take in and hard to get out of |
 | `q` | helps me get out of the thing that I assume is a manual but I dont understand it yet |
 | `pwd` | shows the path for the folder im in right now . /Users/KDAWG |
