@@ -66,13 +66,13 @@ Try out these commands first, and record what happened.
 | Command | What happened? |
 | :--- | :--- |
 | `ls -a .` | whatever this means .	.. | 
-| `man ls` | |
-| `q` | helps me get out of the thing that i assume is a manual but i dont understand it yet |
+| `man ls` | I think this is supposed to be a manual but its a lot to take in and hard to get out of |
+| `q` | helps me get out of the thing that I assume is a manual but I dont understand it yet |
 | `pwd` | shows the path for the folder im in right now . /Users/KDAWG |
-| `cd ~` | nothing that i can see happened? is it a trick? |
-| `cd .` | |
-| `cd ..` | |
-| `cd -` | |
+| `cd ~` | nothing that I can see happened? is it a trick? |
+| `cd .` | again- nothing I can see changed|
+| `cd ..` | took me from /Users/KDAWG to /Users |
+| `cd -` | took me back to /Users/KDAWG |
 
 Then use `man` to explore these commands.
 
