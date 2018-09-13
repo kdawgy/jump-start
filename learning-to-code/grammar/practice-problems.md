@@ -8,68 +8,68 @@ Complete each section by hand, then check your answers using `irb`
 
 ```ruby
 x = 5
-# what value does x now hold?
+# what value does x now hold? 5 
 
 z = "Hello"
-# what value does z now hold?
+# what value does z now hold? "Hello"
 
 a = 5
 b = 3.2
 c = a + b
-# what values does c now hold?
+# what values does c now hold? 8.2
 
 var1 = "lawl"
 var2 = "brb"
-# what value does var2 now hold?
+# what value does var2 now hold? "brb"
 
 e = 6 + 3
-# what values does e now hold?
+# what values does e now hold? 9
 
 f = 3.5
 f = f + 2
-# what value does f now hold?
+# what value does f now hold? 5.5
 
 poodle = 4
 pitbull = 3
-# what value does boxer now hold?
+# what value does boxer now hold? n/a
 
 h = 5
 h = h + h
-# what values does h now hold?
+# what values does h now hold? 10
 
 j = 1
 k = 2
 m = 3
 n = j + k + m
-# what value does n now hold?
+# what value does n now hold? 6
 
 p = "moo"
 q = "quack"
 p  = q
-# what value does p now hold?
+# what value does p now hold? "quack"
 
 r = "moo"
 s = "quack"
 t = "woof"
 r = t
-# what value does r now hold?
+# what value does r now hold? "woof"
 
 u = 5
 u = u * 2
 u = u * 2
 u = u * 2
-# what value does u now hold?
+# what value does u now hold? 40
 
 v = "b"
 z = "a"
-# what value does v now hold?
+# what value does v now hold? "b"
 
 
 aa = 3234
 bb = 2398
 cc = 0
 dd = (aa + bb) / cc
-# what value does dd now hold?
+# what value does dd now hold? 0
 
 yy = 7
 zz = yy % 2
