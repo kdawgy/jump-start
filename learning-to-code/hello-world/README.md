@@ -13,7 +13,7 @@ A _Hello World_ program is the first program that people often write when explor
 * Write and execute a hello world program in the terminal using `irb`
 		1. Open terminal
 		2. Type `irb` and press [enter]
-		3. Type `puts "Hello, World!"` and press [enter]
+		3. Type `puts "Hello, World!"` and press [enter]   **?????
 * Write a hello world program in a Ruby file and execute it form the terminal
 		1. Open terminal
 		2. Type `touch hello-world.rb` to create the file
