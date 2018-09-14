@@ -106,20 +106,20 @@ i = 1.5
 | `g - e` | 6.0 | floating |
 | `(h + i) - f` | 2.5|  floating|
 | `(d - f) + e` | 13.0 |  floating|
-| `d * f` | 20| | fixnum |
-| `g * i` | 16.5|  | floating |
-| `f * g` | 22.0|  | floating |
-| `d / f` |  5 || fixnum |
-| `d / e` | 2.0 |  | floating |
-| `e / f` |2.5  | | floating |
-| `(g * f) / f` | 11.0| | floating |
-| `(d / f) * e` | 25.0 | | floating |
-| `21 / 5` | 4|   | fixed |
-| 14 / 5 | 2 | | fixed |
-| 10 % 3 | 1 | | fixed |
-| 20 % 2 | 0 |  | fixed |
-| 4 % 5 | 4|  | fixed |
-| 8 % 1 | 0 |  | fixed |
+| `d * f` | 20| fixnum | |
+| `g * i` | 16.5|  floating | |
+| `f * g` | 22.0| floating  | |
+| `d / f` |  5 |fixnum|  |
+| `d / e` | 2.0 | floating  | |
+| `e / f` |2.5  | floating |  |
+| `(g * f) / f` | 11.0| floating  | |
+| `(d / f) * e` | 25.0 | floating  | |
+| `21 / 5` | 4| fixed  |  |
+| 14 / 5 | 2 | fixed  | |
+| 10 % 3 | 1 | fixed  | |
+| 20 % 2 | 0 | fixed  | |
+| 4 % 5 | 4| fixed |  |
+| 8 % 1 | 0 | fixed  | |
 
 ## String practice
 Determine the output of slice on your own and then check your answer using `irb`
