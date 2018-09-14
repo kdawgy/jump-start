@@ -100,26 +100,26 @@ i = 1.5
 | Operation | Result | Data type of result |
 | :---: | :---:| :---: |
 | `d + e` | 15.0| floating |
-| `f + h` | 5 |  |
-| `g + h` | 14.0 | |
-| `d - f` | 8 | |
-| `g - e` | 6.0 |  |
-| `(h + i) - f` | 2.5|  |
-| `(d - f) + e` | 13.0 |  |
-| `d * f` | 20| |  |
-| `g * i` | 16.5|  |  |
-| `f * g` | 22.0|  | |
-| `d / f` |  5 || |
-| `d / e` | 2.0 |  | |
-| `e / f` |2.5  | | |
-| `(g * f) / f` | 11.0| | |
-| `(d / f) * e` | 25.0 | |  |
-| `21 / 5` | 4|   | |
-| 14 / 5 | 2 | | |
-| 10 % 3 | 1 | | |
-| 20 % 2 | 0 |  | |
-| 4 % 5 | 4|  | |
-| 8 % 1 | 0 |  ||
+| `f + h` | 5 | fixnum |
+| `g + h` | 14.0 | floating |
+| `d - f` | 8 | fixnum |
+| `g - e` | 6.0 | floating |
+| `(h + i) - f` | 2.5|  floating|
+| `(d - f) + e` | 13.0 |  floating|
+| `d * f` | 20| | fixnum |
+| `g * i` | 16.5|  | floating |
+| `f * g` | 22.0|  | floating |
+| `d / f` |  5 || fixnum |
+| `d / e` | 2.0 |  | floating |
+| `e / f` |2.5  | | floating |
+| `(g * f) / f` | 11.0| | floating |
+| `(d / f) * e` | 25.0 | | floating |
+| `21 / 5` | 4|   | fixed |
+| 14 / 5 | 2 | | fixed |
+| 10 % 3 | 1 | | fixed |
+| 20 % 2 | 0 |  | fixed |
+| 4 % 5 | 4|  | fixed |
+| 8 % 1 | 0 |  | fixed |
 
 ## String practice
 Determine the output of slice on your own and then check your answer using `irb`
