@@ -129,13 +129,19 @@ Determine the output of slice on your own and then check your answer using `irb`
 my_string = "I love Seattle"
 my_string.slice(7) 
 
+S
+
 # problem 2
 my_string = "I love Seattle"
 my_string.slice(2, 4)
 
+lo
+
 # problem 3
 my_string = "I love Seattle"
 my_string.slice("Seattle")
+
+Seattle
 
 # problem 4
 my_string = "Ada"
